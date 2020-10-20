@@ -1,0 +1,134 @@
+/* 
+  STAASScore.strings
+  Score
+
+  Created by steve on 2017/2/20.
+  Copyright © 2017年 liuguojun. All rights reserved.
+*/
+
+"确定" = "Confirm";
+"下拉刷新" = "drop-down refresh";
+"释放刷新" = "Let go to refresh";
+"正在刷新..." = "refreshing...";
+
+"游客身份验证有误" = "Guest ID have error.";
+"产品设备验证有误" = "Missing equipment verification parameters.";
+"游客和工单不匹配" = "Guest Account does not match to the Ticket.";
+"缺少工单类型参数" = "Missing Ticket type parameter.";
+"工单类型有误" = "Ticket type have error.";
+"工单id有误" = "Ticket ID have error.";
+"用户评价有误" = "Missing user rate parameter.";
+"工单有误" = "Ticket not found.";
+"图片文件为空" = "Image is empty.";
+"图片错误" = "Image is error.";
+"图片名错误" = "Image's name is error.";
+"fqaID有误" = "fqaID error";
+"fqa未找到" = "fqa not found";
+"faq评价有误" = "FAQ rate parameter is empty.";
+"用户已读" = "User has read";
+"工单已处理" = "Ticket has been accepted for processing.";
+"工单已关闭" = "Ticket has been closed.";
+"保留" = "Keep";
+"系统错误,请稍后再试" = "System error,try again";
+"其他错误" = "Other Issue";
+"因违规操作被封禁" = "Banned due to violations";
+
+"相册" = "Photos";
+"取消" = "cancel";
+"您未打开照片权限" = "You did't' open photo permissions";
+"相机胶卷" = "Camera film";
+"返回" = "Back";
+"最多只能选择%d张图片" = "Only %d pictures can be selected";
+"本地相册" = "Local photo album";
+
+"账号问题" = "Account\nIssue";
+"充值问题" = "Purchase\nIssue";
+"游戏玩法" = "Gameplay\nIssue";
+"其他" = "Other\nIssue";
+"登录问题" = "Login\nIssue";
+"游戏建议" = "Game\nSuggestions";
+"翻译问题" = "Translation\nIssue";
+
+"请输入反馈内容" = "Please enter your issue. ";
+"您的手机号或邮箱(非必须)" = "Your email or phone (optional) ";
+"反馈历史" = "Feedback History";
+"提交问题" = "Submit Issue";
+"反馈内容不能为空" = "Issue can't be empty.";
+"最多输入512个字" = "512 characters at most";
+"最多输入100个字" = "100 characters at most";
+
+"问题是否已解决?" = "Has the problem been solved?";
+"已解决" = "Solved";
+"继续提问" = "Continue Inquiry";
+"您对客服人员的帮助服务是否满意?" = "Are you satisfied with the customer service?";
+"不满意" = "Unsatisfied";
+"非常棒" = "Great";
+"反馈新的问题" = "New Issue";
+"该问题已解决,如有其他问题请重新提交" = "This issue has been solved, please submit a new ticket if you have any other problem.";
+
+"反馈成功" = "Feedback Submitted";
+"反馈失败" = "Feedback Failed";
+"删除成功" = "Delete Succeed";
+"删除失败" = "Delete Failed";
+"评价成功,谢谢您的评价" = "Rating submitted. Thanks for your rating.";
+"评价失败" = "Rate Failed";
+"删除" = "Delete";
+"确认删除" = "Confirm Delete";
+
+"相关截图" = "Images";
+"最多3张" = "No more than 3";
+"您的问题客服人员正在处理，请耐心等待反馈" = "We are dealing with your problem, please wait patiently for the feedback.";
+"由于您长时间未回复，该消息已自动关闭" = "Because you have not replied for a long time, the message has been closed automatically";
+"反馈问题" = "Feedback Issue";
+"请求失败，请检查网络！" = "Request failed, please check your network.";
+"图片上传失败" = "Image upload failed";
+"推荐问答" = "FAQ";
+"隐藏推荐" = "Hide FAQ";
+"显示推荐" = "Show FAQ";
+"展开查看更多" = "Expand to see more";
+"重试" = "Try Again";
+"搜索" = "Search";
+"您对该问题的回答是否满意？" = "Are you satisfied with the answer to this question?";
+"感谢您的反馈" = "Thanks for your feedback";
+
+"确认提交" = "Confirm";
+"提交成功" = "Submitted";
+"我们将尽快处理您的问题，请耐心等待。" = "We will deal with your problem as soon as possible, please be patient";
+"可能对您有帮助的内容：" = "Information that may be helpful to you:";
+"换一组" = "Refresh";
+"推荐内容解答您的问题了吗？" = "Does the recommended Information solve your question?";
+"发送" = "Send";
+"未解决" = "No";
+"您的疑问解决了吗?" = "Did your issue got solved？";
+"抱歉，没有相关的内容" = "Sorry, there is no relevant information.";
+"请描述您的问题" = "Please describe your problem";
+"处理中" = "Processing";
+"继续追问" = "Continue Inquiry";
+"您确认问题已解决。" = "Your issue has been solved.";
+"非常抱歉没有帮到你，请尝试：" = "Sorry for not helping you, please try:";
+
+// ---------- TZImagePickerController ----------
+
+"KEY"                     = "英语";
+"OK"                      = "OK";
+"Back"                    = "Back";
+"Done"                    = "Done";
+"Sorry"                   = "Sorry";
+"Cancel"                  = "Cancel";
+"Setting"                 = "Setting";
+"Photos"                  = "Photos";
+"Videos"                  = "Videos";
+"Preview"                 = "Preview";
+"Full image"              = "Full image";
+"Processing..."           = "Processing...";
+"No Photos or Videos"     = "No Photos or Videos";
+"Synchronizing photos from iCloud" = "Synchronizing photos from iCloud";
+"Can not use camera"      = "Can not use camera";
+"Can not choose both video and photo" = "Can not choose both video and photo";
+"Can not choose both photo and GIF" = "Can not choose both photo and GIF";
+"Select the video when in multi state, we will handle the video as a photo" = "Select the video when in multi state, we will handle the video as a photo";
+"Can not jump to the privacy settings page, please go to the settings page by self, thank you" = "Cannot jump to the privacy settings page, please go to the settings page by yourself, thank you";
+"Select a maximum of %zd photos" = "Only select up to %zd images";
+"Select a minimum of %zd photos" = "Please select at least %zd photos";
+"Allow %@ to access your album in \"Settings -> Privacy -> Photos\"" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+"Please allow %@ to access your camera in \"Settings -> Privacy -> Camera\"" = "Please allow %@ to access your camera in \"Settings > Privacy > Camera\"";

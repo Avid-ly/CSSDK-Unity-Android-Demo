@@ -1,0 +1,6 @@
+framework module CServiceSDK {
+  umbrella header "CServiceSDK.h"
+
+  export *
+  module * { export * }
+}
